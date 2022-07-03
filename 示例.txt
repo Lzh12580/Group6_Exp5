@@ -1,0 +1,7 @@
+Dart是谷歌开发的计算机编程语言，后来被Ecma (ECMA-408)认定为标准 [1]  。它被用于web、服务器、移动应用 [2]  和物联网等领域的开发。它是宽松开源许可证（修改的BSD证书）下的开源软件。
+Dart是面向对象的、类定义的、单继承的语言。它的语法类似C语言，可以转译为JavaScript，支持接口(interfaces)、混入(mixins)、抽象类(abstract classes)、具体化泛型(reified generics)、可选类型(optional typing)和sound type system [3] 
+
+Flutter是Google开源的构建用户界面（UI）工具包，帮助开发者通过一套代码库高效构建多平台精美应用，支持移动、Web、桌面和嵌入式平台。 [5]  Flutter 开源、免费，拥有宽松的开源协议，适合商业项目。Flutter已推出稳定的2.0版本。
+
+Flutter可以方便的加入现有的工程中。在全世界，Flutter 正在被越来越多的开发者和组织使用，并且 Flutter是完全免费、开源的。它也是构建未来的 Google Fuchsia 应用的主要方式。
+Flutter组件采用现代响应式框架构建，这是从React中获得的灵感，中心思想是用组件(widget)构建你的UI。 组件描述了在给定其当前配置和状态时他们显示的样子。当组件状态改变，组件会重构它的描述(description)，Flutter 会对比之前的描述， 以确定底层渲染树从当前状态转换到下一个状态所需要的最小更改。
